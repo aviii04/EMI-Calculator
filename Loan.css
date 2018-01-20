@@ -1,0 +1,41 @@
+﻿body {
+    text-align:center;
+}
+#container {
+    width: 650px;
+    height: 600px;
+    margin: 0px auto;
+    padding: 10px;
+    background-color: #fff;
+    border:1px solid orange;
+}
+
+#loan_src {
+    float: left;
+    width: 250px;
+    height: 220px;
+    margin-bottom: 10px;
+   
+}
+
+#loan_info {
+    float: right;
+    width: 300px;
+    height: 230px;
+    margin-bottom: 10px;
+    border: 1px solid orange;
+}
+
+#table_header {
+    clear: both;
+    width: 600px;
+    height: 50px;
+    
+}
+
+#table {
+    overflow: auto;
+    width: 600px;
+    height: 200px;
+    border:1px solid green;
+}
